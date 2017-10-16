@@ -4,7 +4,7 @@ I will be using this page mainly as a blog on my entry into the web development 
 
 ## 100 Days Of Code - Log
 
-### Day 1: October 16, 2017, Monday
+## Day 1: October 16, 2017, Monday
 
 **Today's Progress**: Working through my FreeCodeCamp and then get some of my web development course done. Tonight I'll look into getting my GitPage sorted out and start designing that tomorrow.
 
