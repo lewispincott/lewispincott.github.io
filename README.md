@@ -1,5 +1,6 @@
 # Welcome to my page                                                        
 [Follow me on Twitter](https://twitter.com/DevGod1Day)
+</br>
 [Connect with me on LinkedIn](www.linkedin.com/in/lewis-pincott)
 
 
