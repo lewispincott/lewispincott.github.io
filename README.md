@@ -22,5 +22,19 @@ I will be using this page mainly as a blog on my entry into the web development 
 
 
 **Link(s) to work**
-https://lewispincott.github.io/
+https://lewispincott.github.io/  
+
+## Day 2: October 17, 2017, Tuesday
+
+**Today's Progress**: Got through a load of my FreeCodeCamp making great progress. Finished the intermediate CSS section of bootcamp and met with client I'm designing a site for. Happy to report they're very happy with the structure and layout of the site so looking forward to receiving their content and loading the site up.
+
+**Thoughts** Still very upbeat and feeling positive. The daily journal is a great way to think about the days events while charting progress. Having small daily achievable goals is the secret to creating creative momentum. I'm enjoying this so much and finding it such a benefit that I'm thinking of doing the 300Days of code challenge after this. Great community spirit in the challenges various forums 
+
+**Today's Tasks**
+- [x] Sort out my GitPage
+- [x] Meet client about site
+- [x] Work through my FreeCodeCamp
+- [x] Bootcamp course work 
+
+
 
