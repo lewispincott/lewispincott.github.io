@@ -52,7 +52,7 @@ https://lewispincott.github.io/
 
 
 **Link(s) to work**
-http://cssgridgarden.com/ Simple game but very addictive   
+http://cssgridgarden.com/ Simple game but very addictive game.
 
 
 
