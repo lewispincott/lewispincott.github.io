@@ -34,7 +34,26 @@ https://lewispincott.github.io/
 - [x] Sort out my GitPage
 - [x] Meet client about site
 - [x] Work through my FreeCodeCamp
-- [x] Bootcamp course work 
+- [x] Bootcamp course work  
+
+## Day 3: October 18, 2017, Wednesday
+
+**Today's Progress**: More of a laid back day today, Continued on with FreeCodeCamp and my bootcamp course. The next section is Bootstrap which I'm looking forward to. Caught up on loads of reading I wanted to do and lost far to much time on a fun little css game which I kept telling myself was all going to improve my css skills. Listened to a few of my favourite podcasts so happy with how the day went.
+
+**Thoughts** The podcasts I was listening to today all seemed to have a general theme in regards to mindset. As web developers we will never know everything so It's so important learn a few core things and then become as much as an expert on those. You can often transfer the skills for one thing to another which seemed to make a lot of sense to me. I'm also finding a few benefits of the #100DaysOfCode challenge getting me into a routine which is making ticking off all my daily tasks possible again a skill that can be transfered to other goals. I'm liking how the GitPage is going I'm glad I went with the idea of using it more as a blog style and my journal entries it's a nice way of ending the day and is fast becoming one of my favourite times of the day. Now that my GitPage is developing I'm thinking for my next project to work on is a portfolio to show various projects.  
+
+**Today's Tasks**
+- [x] Work on my GitPage
+- [x] Loads of reading mainly on CSS
+- [x] Worked through my FreeCodeCamp
+- [x] Worked on Web Development Bootcamp
+- [x] Sketched out rough draft for a portfolio
+
+
+
+**Link(s) to work**
+http://cssgridgarden.com/ Simple game but very addictive   
+
 
 
 
