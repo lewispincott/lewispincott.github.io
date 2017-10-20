@@ -52,7 +52,20 @@ https://lewispincott.github.io/
 
 
 **Link(s) to work**
-[CSS GRID GARDEN addictive little game I found](http://cssgridgarden.com)
+[CSS GRID GARDEN addictive little game I found](http://cssgridgarden.com)  
+
+## Day 4: October 19, 2017, Thursday
+
+**Today's Progress**: FreeCodeCamp and Bootcamp course work today also started reading up on Adobe for photos in web pages..the studying is neverending but enjoyable.
+
+**Thoughts** Loving this challenge so much I'm developing fantastic focusing skills along with time management. I'm finding the daily task list so beneficial.
+
+**Today's Tasks**
+- [x] Further work on portfolio idea
+- [x] Start reading up on Adobe
+- [x] Work through my FreeCodeCamp
+- [x] Web Development Bootcamp
+
 
 
 
