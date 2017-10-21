@@ -77,7 +77,7 @@ https://lewispincott.github.io/
 - [x] Write up journal entry
 - [x] Add content to GitPage
 - [x] Web Development Bootcamp
-- [x] FInd all I can on Bootstrap Studio
+- [x] Find all I can on Bootstrap Studio
 
 
 
