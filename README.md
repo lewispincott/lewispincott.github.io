@@ -74,6 +74,7 @@ https://lewispincott.github.io/
 
 **Today's Tasks**
 - [x] Get some reading done
+- [x] Work through some FreeCodeCamp
 - [x] Write up journal entry
 - [x] Add content to GitPage
 - [x] Web Development Bootcamp
