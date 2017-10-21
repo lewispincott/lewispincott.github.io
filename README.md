@@ -64,7 +64,21 @@ https://lewispincott.github.io/
 - [x] Further work on portfolio idea
 - [x] Start reading up on Adobe
 - [x] Work through my FreeCodeCamp
+- [x] Web Development Bootcamp  
+
+## Day 5: October 20, 2017, Friday
+
+**Today's Progress**: FreeCodeCamp and Bootcamp course today along with more reading of Jon Duckett's HTML&CSS also reading up on bootstrap studio which looks like a good bit of kit. Looking forward to playing around with it.
+
+**Thoughts** Focused and determined all this studying and the code challenge doesn't even seem like work it's that enjoyable. 
+
+**Today's Tasks**
+- [x] Get some reading done
+- [x] Write up journal entry
+- [x] Add content to GitPage
 - [x] Web Development Bootcamp
+- [x] FInd all I can on Bootstrap Studio
+
 
 
 
